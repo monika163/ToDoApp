@@ -1,6 +1,6 @@
 {
   "name": "todoapp",
-  "homepage": "http://monika163.github.io/ToDoApp", 
+  "homepage": "http://monika163.github.io/ToDoApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
